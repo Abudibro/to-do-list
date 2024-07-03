@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  font-style: normal;
+  font-weight: normal;
+}
+
+input:focus{
+  outline: none;
+}
